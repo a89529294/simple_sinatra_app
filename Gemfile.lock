@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    a89529294_palindrome (0.2.0)
+    a89529294_palindrome (0.3.0)
     ansi (1.5.0)
     builder (3.2.4)
     ffi (1.15.5)
@@ -49,7 +49,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  a89529294_palindrome (~> 0.2.0)
+  a89529294_palindrome (~> 0.3.0)
   minitest (= 5.15.0)
   minitest-reporters (= 1.5.0)
   nokogiri (= 1.13.3)
